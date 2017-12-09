@@ -1,0 +1,10 @@
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\ResizeImage.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\ResizeImage.pdb
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\obj\Debug\ResizeImage.csprojResolveAssemblyReference.cache
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\obj\Debug\ResizeImage.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\obj\Debug\ResizeImage.pdb
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\Microsoft.WindowsAzure.Diagnostics.StorageUtility.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\Microsoft.WindowsAzure.ServiceRuntime.dll
+c:\users\abc\documents\visual studio 2015\Projects\ResizeImage\ResizeImage\bin\Debug\Microsoft.WindowsAzure.Storage.dll
